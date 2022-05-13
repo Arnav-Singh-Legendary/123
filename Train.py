@@ -3,7 +3,6 @@ from NeuralNetwork import bagOfWords, Tokenize, stem
 from torch.utils.data import DataLoader, Dataset
 from Brain import NeuraNet
 import torch.nn as nn
-from numpy import array as ppe
 import numpy as np
 import torch
 import json
